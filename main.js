@@ -15,4 +15,7 @@
 
 
 // Esercizio 3
-// 
+// Dato prezzo e sconto in percentuale, restituire il prezzo scontato
+
+// const prezzo = (price, discount) => price - (price * discount / 100);
+// console.log(prezzo(100, 10));
