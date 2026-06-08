@@ -19,3 +19,19 @@
 
 // const prezzo = (price, discount) => price - (price * discount / 100);
 // console.log(prezzo(100, 10));
+
+
+
+// Esercizio 4
+// Dato un nome e se è VIP, aggiunge "★" al nome, altrimenti lo lascia pulito
+
+// const formatName = (nome, isVip) => isVip === true ? nome + "★" : nome;
+// console.log(formatName("Patricia", true));
+
+//NO OPERATORE TERNARIO
+// const formatName = (nome, isVip) => {
+//     if (isVip) {
+//         return nome + "★";
+//     }
+// }
+// console.log(formatName("Patricia", true));
