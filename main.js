@@ -45,3 +45,13 @@
 
 // const newPrices = prices.map(price => price + (price * 22 / 100));
 // console.log(newPrices);
+
+
+
+// Esercizio 6
+// Dato un array di voti, dimmi se tutta la classe è stata promossa
+
+// const votes = [5, 7, 9, 10, 3];
+
+// const allPassed = votes.every(vote => vote >= 6);
+// console.log(allPassed);
