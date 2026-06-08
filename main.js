@@ -55,3 +55,13 @@
 
 // const allPassed = votes.every(vote => vote >= 6);
 // console.log(allPassed);
+
+
+
+// Esercizio 7
+// Dato un array di prezzi, restituisci i prezzi che costano tra 10 e 20 euro
+
+// const prices = [9, 12, 40, 13, 15, 54];
+
+// const newPrices = prices.filter(price => price >= 10 && price <= 20);
+// console.log(newPrices);
