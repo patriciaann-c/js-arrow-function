@@ -65,3 +65,14 @@
 
 // const newPrices = prices.filter(price => price >= 10 && price <= 20);
 // console.log(newPrices);
+
+
+
+
+// Esercizio 8
+// Dato un array di password, trovare la prima che ha più di 8 caratteri
+
+// const passwords = ["1234", "Ciao", "4567890", "Patricia", "0921"];
+
+// const newPasswords = passwords.find(pass => pass.length > 8);
+// console.log(newPasswords);
