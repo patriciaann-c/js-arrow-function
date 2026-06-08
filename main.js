@@ -76,3 +76,12 @@
 
 // const newPasswords = passwords.find(pass => pass.length > 8);
 // console.log(newPasswords);
+
+
+
+// Esercizio 9
+// Dato un array di nomi, stampare per ogni nome il prefisso "Sig."
+
+// const names = ["Anthony", "June", "Lopez"];
+
+// names.forEach(nome => console.log("Sig." + nome));
