@@ -35,3 +35,13 @@
 //     }
 // }
 // console.log(formatName("Patricia", true));
+
+
+
+// Esercizio 5
+// Da una lista di prezzi netti, genera una nuova lista con i prezzi lordi (IVA al 22%)
+
+// const prices = [20, 43, 27, 38];
+
+// const newPrices = prices.map(price => price + (price * 22 / 100));
+// console.log(newPrices);
